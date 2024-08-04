@@ -1,8 +1,7 @@
 - 👋 Hola! Soy Gabrielallenn
-- 👀 Soy un Programador Junior
+- 👀 Soy un Programador Principiante
 - 🌱 Estudio Ingenieria Informatica
-- 💞️ Me encanta colaborar con Proyectos Informaticos...
-- 📫 Graziasss...
+- 📫 Graciassss...
 
 <!---
 gabrielallenn/gabrielallenn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
